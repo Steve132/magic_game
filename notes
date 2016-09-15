@@ -1,0 +1,24 @@
+
+		verb		noun		baseproperties			
+purple	insert		earth		dereferencedefense
+yellow	extract		electricity	memory
+
+white	create		light		constructor
+black	destroy		soul		soul
+
+blue	link		water		truename
+orange	unlink		mana		mana
+
+green	increase	life		timerate
+red		decrease	fire		health
+
+superof
+ownerof
+
+referto (&)
+dereferto (*)
+
+inspect
+
+(Every procedure is a method and has a caster/self)
+
