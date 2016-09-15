@@ -1,5 +1,5 @@
 
-		verb		noun		baseproperties			
+	verb		noun		baseproperties			
 purple	insert		earth		dereferencedefense
 yellow	extract		electricity	memory
 
@@ -10,7 +10,7 @@ blue	link		water		truename
 orange	unlink		mana		mana
 
 green	increase	life		timerate
-red		decrease	fire		health
+red	decrease	fire		health
 
 superof
 ownerof
